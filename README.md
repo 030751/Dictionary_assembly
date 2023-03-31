@@ -9,7 +9,11 @@ console-based dictionary. It is a dictionary that contains 500+ 5-letter words a
 The functionality that the dictionary provides contains:
 
 • Searching the meaning of entered word
+
  Correctly spelled word
+ 
  Misspelled word
+ 
 • Addition of a word in Dictionary
+
 • Deletion of a word from Dictionary
